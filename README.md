@@ -25,7 +25,6 @@ The internship focused on strengthening cybersecurity practices, implementing pr
 ## Author
 👩‍💻 **Kommineni Rekha Chowdary**  
 - [LinkedIn](https://www.linkedin.com/in/kommineni-rekha-chowdary)  
-- [GitHub](https://github.com/Komminenirekha)  
 - 📧 rekhachowdarykommineni@gmail.com  
 
 ---
